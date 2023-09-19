@@ -21,4 +21,5 @@ variable "aws_subnet_names" {
   default     = ["app1", "app2", "web1", "web2", "db1", "db2"]
   description = "These are default values of subnet names"
 
+
 }
